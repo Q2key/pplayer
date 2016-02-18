@@ -1,0 +1,657 @@
+L:\Iceberg beta\testWPF\bin\Debug\testWPF.exe.config
+L:\Iceberg beta\testWPF\bin\Debug\testWPF.exe
+L:\Iceberg beta\testWPF\bin\Debug\testWPF.pdb
+L:\Iceberg beta\testWPF\bin\Debug\taglib-sharp.dll
+L:\Iceberg beta\testWPF\obj\Debug\iceberg.csprojResolveAssemblyReference.cache
+L:\Iceberg beta\testWPF\obj\Debug\Interop.WMPDXMLib.dll
+L:\Iceberg beta\testWPF\obj\Debug\Interop.WMPLauncher.dll
+L:\Iceberg beta\testWPF\obj\Debug\Interop.WMPLib.dll
+L:\Iceberg beta\testWPF\obj\Debug\iceberg.csproj.ResolveComReference.cache
+L:\Iceberg beta\testWPF\obj\Debug\MainWindow.baml
+L:\Iceberg beta\testWPF\obj\Debug\MyGridView.baml
+L:\Iceberg beta\testWPF\obj\Debug\MainWindow.g.cs
+L:\Iceberg beta\testWPF\obj\Debug\MyGridView.g.cs
+L:\Iceberg beta\testWPF\obj\Debug\App.g.cs
+L:\Iceberg beta\testWPF\obj\Debug\testWPF_MarkupCompile.cache
+L:\Iceberg beta\testWPF\obj\Debug\testWPF.g.resources
+L:\Iceberg beta\testWPF\obj\Debug\testWPF.Properties.Resources.resources
+L:\Iceberg beta\testWPF\obj\Debug\iceberg.csproj.GenerateResource.Cache
+L:\Iceberg beta\testWPF\obj\Debug\testWPF.exe
+L:\Iceberg beta\testWPF\obj\Debug\testWPF.pdb
+G:\Iceberg beta\testWPF\bin\Debug\testWPF.exe.config
+G:\Iceberg beta\testWPF\obj\Debug\iceberg.csproj.ResolveComReference.cache
+G:\Iceberg beta\testWPF\obj\Debug\testWPF.exe
+G:\Iceberg beta\testWPF\obj\Debug\testWPF.pdb
+G:\Iceberg beta\testWPF\bin\Debug\testWPF.exe
+G:\Iceberg beta\testWPF\bin\Debug\testWPF.pdb
+G:\Iceberg beta\testWPF\bin\Debug\taglib-sharp.dll
+G:\Iceberg beta\testWPF\obj\Debug\iceberg.csprojResolveAssemblyReference.cache
+G:\Iceberg beta\testWPF\obj\Debug\MainWindow.baml
+G:\Iceberg beta\testWPF\obj\Debug\MyGridView.baml
+G:\Iceberg beta\testWPF\obj\Debug\MainWindow.g.cs
+G:\Iceberg beta\testWPF\obj\Debug\MyGridView.g.cs
+G:\Iceberg beta\testWPF\obj\Debug\App.g.cs
+G:\Iceberg beta\testWPF\obj\Debug\testWPF_MarkupCompile.cache
+G:\Iceberg beta\testWPF\obj\Debug\testWPF.g.resources
+G:\Iceberg beta\testWPF\obj\Debug\testWPF.Properties.Resources.resources
+G:\Iceberg beta\testWPF\obj\Debug\iceberg.csproj.GenerateResource.Cache
+L:\Iceberg beta\testWPF\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Dmitry\Desktop\Iceberg beta\testWPF\bin\Debug\testWPF.exe.config
+C:\Users\Dmitry\Desktop\Iceberg beta\testWPF\obj\Debug\iceberg.csproj.ResolveComReference.cache
+C:\Users\Dmitry\Desktop\Iceberg beta\testWPF\obj\Debug\testWPF.exe
+C:\Users\Dmitry\Desktop\Iceberg beta\testWPF\obj\Debug\testWPF.pdb
+C:\Users\Dmitry\Desktop\Iceberg beta\testWPF\bin\Debug\testWPF.exe
+C:\Users\Dmitry\Desktop\Iceberg beta\testWPF\bin\Debug\testWPF.pdb
+C:\Users\Dmitry\Desktop\Iceberg beta\testWPF\bin\Debug\taglib-sharp.dll
+C:\Users\Dmitry\Desktop\Iceberg beta\testWPF\obj\Debug\MainWindow.baml
+C:\Users\Dmitry\Desktop\Iceberg beta\testWPF\obj\Debug\MyGridView.baml
+C:\Users\Dmitry\Desktop\Iceberg beta\testWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Dmitry\Desktop\Iceberg beta\testWPF\obj\Debug\MyGridView.g.cs
+C:\Users\Dmitry\Desktop\Iceberg beta\testWPF\obj\Debug\App.g.cs
+C:\Users\Dmitry\Desktop\Iceberg beta\testWPF\obj\Debug\testWPF_MarkupCompile.cache
+C:\Users\Dmitry\Desktop\Iceberg beta\testWPF\obj\Debug\testWPF.g.resources
+C:\Users\Dmitry\Desktop\Iceberg beta\testWPF\obj\Debug\testWPF.Properties.Resources.resources
+C:\Users\Dmitry\Desktop\Iceberg beta\testWPF\obj\Debug\iceberg.csproj.GenerateResource.Cache
+L:\testWPF\Iceberg beta\testWPF\bin\Debug\testWPF.exe.config
+L:\testWPF\Iceberg beta\testWPF\obj\Debug\Interop.MediaPlayer.dll
+L:\testWPF\Iceberg beta\testWPF\obj\Debug\Interop.WMPDXMLib.dll
+L:\testWPF\Iceberg beta\testWPF\obj\Debug\Interop.WMPLauncher.dll
+L:\testWPF\Iceberg beta\testWPF\obj\Debug\Interop.WMPLib.dll
+L:\testWPF\Iceberg beta\testWPF\obj\Debug\iceberg.csproj.ResolveComReference.cache
+L:\testWPF\Iceberg beta\testWPF\obj\Debug\testWPF.exe
+L:\testWPF\Iceberg beta\testWPF\obj\Debug\testWPF.pdb
+L:\testWPF\Iceberg beta\testWPF\bin\Debug\testWPF.exe
+L:\testWPF\Iceberg beta\testWPF\bin\Debug\testWPF.pdb
+L:\testWPF\Iceberg beta\testWPF\bin\Debug\taglib-sharp.dll
+L:\testWPF\Iceberg beta\testWPF\obj\Debug\iceberg.csprojResolveAssemblyReference.cache
+L:\testWPF\Iceberg beta\testWPF\obj\Debug\MainWindow.baml
+L:\testWPF\Iceberg beta\testWPF\obj\Debug\MyGridView.baml
+L:\testWPF\Iceberg beta\testWPF\obj\Debug\MainWindow.g.cs
+L:\testWPF\Iceberg beta\testWPF\obj\Debug\MyGridView.g.cs
+L:\testWPF\Iceberg beta\testWPF\obj\Debug\App.g.cs
+L:\testWPF\Iceberg beta\testWPF\obj\Debug\testWPF_MarkupCompile.cache
+L:\testWPF\Iceberg beta\testWPF\obj\Debug\testWPF.g.resources
+L:\testWPF\Iceberg beta\testWPF\obj\Debug\testWPF.Properties.Resources.resources
+L:\testWPF\Iceberg beta\testWPF\obj\Debug\iceberg.csproj.GenerateResource.Cache
+L:\Iceberg beta\testWPF\bin\Debug\HtmlAgilityPack.dll
+L:\Iceberg beta\testWPF\bin\Debug\Newtonsoft.Json.dll
+L:\Iceberg beta\testWPF\bin\Debug\VkNet.dll
+L:\Iceberg beta\testWPF\bin\Debug\HtmlAgilityPack.pdb
+L:\Iceberg beta\testWPF\bin\Debug\HtmlAgilityPack.xml
+L:\Iceberg beta\testWPF\bin\Debug\Newtonsoft.Json.xml
+L:\Iceberg beta\testWPF\bin\Debug\VkNet.pdb
+L:\Iceberg beta\testWPF\bin\Debug\VkNet.xml
+C:\Users\user\Desktop\Iceberg beta\testWPF\bin\Debug\testWPF.exe.config
+C:\Users\user\Desktop\Iceberg beta\testWPF\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\user\Desktop\Iceberg beta\testWPF\obj\Debug\Interop.WMPDXMLib.dll
+C:\Users\user\Desktop\Iceberg beta\testWPF\obj\Debug\Interop.WMPLauncher.dll
+C:\Users\user\Desktop\Iceberg beta\testWPF\obj\Debug\Interop.WMPLib.dll
+C:\Users\user\Desktop\Iceberg beta\testWPF\obj\Debug\iceberg.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\Iceberg beta\testWPF\obj\Debug\testWPF.exe
+C:\Users\user\Desktop\Iceberg beta\testWPF\obj\Debug\testWPF.pdb
+C:\Users\user\Desktop\Iceberg beta\testWPF\bin\Debug\testWPF.exe
+C:\Users\user\Desktop\Iceberg beta\testWPF\bin\Debug\testWPF.pdb
+C:\Users\user\Desktop\Iceberg beta\testWPF\bin\Debug\HtmlAgilityPack.dll
+C:\Users\user\Desktop\Iceberg beta\testWPF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Iceberg beta\testWPF\bin\Debug\taglib-sharp.dll
+C:\Users\user\Desktop\Iceberg beta\testWPF\bin\Debug\VkNet.dll
+C:\Users\user\Desktop\Iceberg beta\testWPF\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\user\Desktop\Iceberg beta\testWPF\bin\Debug\HtmlAgilityPack.xml
+C:\Users\user\Desktop\Iceberg beta\testWPF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\Iceberg beta\testWPF\bin\Debug\VkNet.pdb
+C:\Users\user\Desktop\Iceberg beta\testWPF\bin\Debug\VkNet.xml
+C:\Users\user\Desktop\Iceberg beta\testWPF\obj\Debug\iceberg.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Iceberg beta\testWPF\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\Iceberg beta\testWPF\obj\Debug\MyGridView.baml
+C:\Users\user\Desktop\Iceberg beta\testWPF\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\Iceberg beta\testWPF\obj\Debug\MyGridView.g.cs
+C:\Users\user\Desktop\Iceberg beta\testWPF\obj\Debug\App.g.cs
+C:\Users\user\Desktop\Iceberg beta\testWPF\obj\Debug\testWPF_MarkupCompile.cache
+C:\Users\user\Desktop\Iceberg beta\testWPF\obj\Debug\testWPF.g.resources
+C:\Users\user\Desktop\Iceberg beta\testWPF\obj\Debug\testWPF.Properties.Resources.resources
+C:\Users\user\Desktop\Iceberg beta\testWPF\obj\Debug\iceberg.csproj.GenerateResource.Cache
+C:\Users\Dmitry\Desktop\Iceberg beta\testWPF\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Dmitry\Desktop\Iceberg beta\testWPF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dmitry\Desktop\Iceberg beta\testWPF\bin\Debug\VkNet.dll
+C:\Users\Dmitry\Desktop\Iceberg beta\testWPF\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Dmitry\Desktop\Iceberg beta\testWPF\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Dmitry\Desktop\Iceberg beta\testWPF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dmitry\Desktop\Iceberg beta\testWPF\bin\Debug\VkNet.pdb
+C:\Users\Dmitry\Desktop\Iceberg beta\testWPF\bin\Debug\VkNet.xml
+C:\Users\Dmitry\Desktop\Iceberg beta\testWPF\obj\Debug\Login.g.cs
+C:\Users\Dmitry\Desktop\Iceberg beta\testWPF\obj\Debug\testWPF_MarkupCompile.lref
+C:\Users\Dmitry\Desktop\Iceberg beta\testWPF\obj\Debug\Login.baml
+C:\Users\Dmitry\Desktop\C#\Code\Iceberg beta\testWPF\bin\Debug\testWPF.exe.config
+C:\Users\Dmitry\Desktop\C#\Code\Iceberg beta\testWPF\obj\Debug\iceberg.csproj.ResolveComReference.cache
+C:\Users\Dmitry\Desktop\C#\Code\Iceberg beta\testWPF\obj\Debug\testWPF.exe
+C:\Users\Dmitry\Desktop\C#\Code\Iceberg beta\testWPF\obj\Debug\testWPF.pdb
+C:\Users\Dmitry\Desktop\C#\Code\Iceberg beta\testWPF\bin\Debug\testWPF.exe
+C:\Users\Dmitry\Desktop\C#\Code\Iceberg beta\testWPF\bin\Debug\testWPF.pdb
+C:\Users\Dmitry\Desktop\C#\Code\Iceberg beta\testWPF\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Dmitry\Desktop\C#\Code\Iceberg beta\testWPF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dmitry\Desktop\C#\Code\Iceberg beta\testWPF\bin\Debug\taglib-sharp.dll
+C:\Users\Dmitry\Desktop\C#\Code\Iceberg beta\testWPF\bin\Debug\VkNet.dll
+C:\Users\Dmitry\Desktop\C#\Code\Iceberg beta\testWPF\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Dmitry\Desktop\C#\Code\Iceberg beta\testWPF\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Dmitry\Desktop\C#\Code\Iceberg beta\testWPF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dmitry\Desktop\C#\Code\Iceberg beta\testWPF\bin\Debug\VkNet.pdb
+C:\Users\Dmitry\Desktop\C#\Code\Iceberg beta\testWPF\bin\Debug\VkNet.xml
+C:\Users\Dmitry\Desktop\C#\Code\Iceberg beta\testWPF\obj\Debug\iceberg.csprojResolveAssemblyReference.cache
+C:\Users\Dmitry\Desktop\C#\Code\Iceberg beta\testWPF\obj\Debug\MainWindow.baml
+C:\Users\Dmitry\Desktop\C#\Code\Iceberg beta\testWPF\obj\Debug\MyGridView.baml
+C:\Users\Dmitry\Desktop\C#\Code\Iceberg beta\testWPF\obj\Debug\Login.g.cs
+C:\Users\Dmitry\Desktop\C#\Code\Iceberg beta\testWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Dmitry\Desktop\C#\Code\Iceberg beta\testWPF\obj\Debug\MyGridView.g.cs
+C:\Users\Dmitry\Desktop\C#\Code\Iceberg beta\testWPF\obj\Debug\App.g.cs
+C:\Users\Dmitry\Desktop\C#\Code\Iceberg beta\testWPF\obj\Debug\testWPF_MarkupCompile.cache
+C:\Users\Dmitry\Desktop\C#\Code\Iceberg beta\testWPF\obj\Debug\testWPF_MarkupCompile.lref
+C:\Users\Dmitry\Desktop\C#\Code\Iceberg beta\testWPF\obj\Debug\Login.baml
+C:\Users\Dmitry\Desktop\C#\Code\Iceberg beta\testWPF\obj\Debug\testWPF.g.resources
+C:\Users\Dmitry\Desktop\C#\Code\Iceberg beta\testWPF\obj\Debug\testWPF.Properties.Resources.resources
+C:\Users\Dmitry\Desktop\C#\Code\Iceberg beta\testWPF\obj\Debug\iceberg.csproj.GenerateResource.Cache
+P:\Iceberg beta\testWPF\bin\Debug\testWPF.exe.config
+P:\Iceberg beta\testWPF\obj\Debug\iceberg.csproj.ResolveComReference.cache
+P:\Iceberg beta\testWPF\obj\Debug\testWPF.exe
+P:\Iceberg beta\testWPF\obj\Debug\testWPF.pdb
+P:\Iceberg beta\testWPF\bin\Debug\testWPF.exe
+P:\Iceberg beta\testWPF\bin\Debug\testWPF.pdb
+P:\Iceberg beta\testWPF\bin\Debug\HtmlAgilityPack.dll
+P:\Iceberg beta\testWPF\bin\Debug\Newtonsoft.Json.dll
+P:\Iceberg beta\testWPF\bin\Debug\taglib-sharp.dll
+P:\Iceberg beta\testWPF\bin\Debug\VkNet.dll
+P:\Iceberg beta\testWPF\bin\Debug\HtmlAgilityPack.pdb
+P:\Iceberg beta\testWPF\bin\Debug\HtmlAgilityPack.xml
+P:\Iceberg beta\testWPF\bin\Debug\Newtonsoft.Json.xml
+P:\Iceberg beta\testWPF\bin\Debug\VkNet.pdb
+P:\Iceberg beta\testWPF\bin\Debug\VkNet.xml
+P:\Iceberg beta\testWPF\obj\Debug\iceberg.csprojResolveAssemblyReference.cache
+P:\Iceberg beta\testWPF\obj\Debug\MainWindow.baml
+P:\Iceberg beta\testWPF\obj\Debug\Login.g.cs
+P:\Iceberg beta\testWPF\obj\Debug\MainWindow.g.cs
+P:\Iceberg beta\testWPF\obj\Debug\App.g.cs
+P:\Iceberg beta\testWPF\obj\Debug\testWPF_MarkupCompile.cache
+P:\Iceberg beta\testWPF\obj\Debug\Login.baml
+P:\Iceberg beta\testWPF\obj\Debug\testWPF.g.resources
+P:\Iceberg beta\testWPF\obj\Debug\testWPF.Properties.Resources.resources
+P:\Iceberg beta\testWPF\obj\Debug\iceberg.csproj.GenerateResource.Cache
+G:\Iceberg beta\testWPF\bin\Debug\HtmlAgilityPack.dll
+G:\Iceberg beta\testWPF\bin\Debug\Newtonsoft.Json.dll
+G:\Iceberg beta\testWPF\bin\Debug\VkNet.dll
+G:\Iceberg beta\testWPF\bin\Debug\HtmlAgilityPack.pdb
+G:\Iceberg beta\testWPF\bin\Debug\HtmlAgilityPack.xml
+G:\Iceberg beta\testWPF\bin\Debug\Newtonsoft.Json.xml
+G:\Iceberg beta\testWPF\bin\Debug\VkNet.pdb
+G:\Iceberg beta\testWPF\bin\Debug\VkNet.xml
+G:\Iceberg beta\testWPF\obj\Debug\Login.g.cs
+G:\Iceberg beta\testWPF\obj\Debug\testWPF_MarkupCompile.lref
+G:\Iceberg beta\testWPF\obj\Debug\Login.baml
+P:\Iceberg beta\testWPF\obj\Debug\App.baml
+E:\Iceberg beta\testWPF\bin\Debug\testWPF.exe.config
+E:\Iceberg beta\testWPF\obj\Debug\iceberg.csproj.ResolveComReference.cache
+E:\Iceberg beta\testWPF\obj\Debug\testWPF.exe
+E:\Iceberg beta\testWPF\obj\Debug\testWPF.pdb
+E:\Iceberg beta\testWPF\bin\Debug\testWPF.exe
+E:\Iceberg beta\testWPF\bin\Debug\testWPF.pdb
+E:\Iceberg beta\testWPF\bin\Debug\HtmlAgilityPack.dll
+E:\Iceberg beta\testWPF\bin\Debug\Newtonsoft.Json.dll
+E:\Iceberg beta\testWPF\bin\Debug\taglib-sharp.dll
+E:\Iceberg beta\testWPF\bin\Debug\VkNet.dll
+E:\Iceberg beta\testWPF\bin\Debug\HtmlAgilityPack.pdb
+E:\Iceberg beta\testWPF\bin\Debug\HtmlAgilityPack.xml
+E:\Iceberg beta\testWPF\bin\Debug\Newtonsoft.Json.xml
+E:\Iceberg beta\testWPF\bin\Debug\VkNet.pdb
+E:\Iceberg beta\testWPF\bin\Debug\VkNet.xml
+E:\Iceberg beta\testWPF\obj\Debug\iceberg.csprojResolveAssemblyReference.cache
+E:\Iceberg beta\testWPF\obj\Debug\Login.baml
+E:\Iceberg beta\testWPF\obj\Debug\MainWindow.baml
+E:\Iceberg beta\testWPF\obj\Debug\App.baml
+E:\Iceberg beta\testWPF\obj\Debug\Login.g.cs
+E:\Iceberg beta\testWPF\obj\Debug\MainWindow.g.cs
+E:\Iceberg beta\testWPF\obj\Debug\App.g.cs
+E:\Iceberg beta\testWPF\obj\Debug\testWPF_MarkupCompile.cache
+E:\Iceberg beta\testWPF\obj\Debug\testWPF.g.resources
+E:\Iceberg beta\testWPF\obj\Debug\testWPF.Properties.Resources.resources
+E:\Iceberg beta\testWPF\obj\Debug\iceberg.csproj.GenerateResource.Cache
+C:\Users\666\Desktop\Iceberg beta\testWPF\bin\Debug\testWPF.exe.config
+C:\Users\666\Desktop\Iceberg beta\testWPF\obj\Debug\iceberg.csproj.ResolveComReference.cache
+C:\Users\666\Desktop\Iceberg beta\testWPF\obj\Debug\testWPF.exe
+C:\Users\666\Desktop\Iceberg beta\testWPF\obj\Debug\testWPF.pdb
+C:\Users\666\Desktop\Iceberg beta\testWPF\bin\Debug\testWPF.exe
+C:\Users\666\Desktop\Iceberg beta\testWPF\bin\Debug\testWPF.pdb
+C:\Users\666\Desktop\Iceberg beta\testWPF\bin\Debug\HtmlAgilityPack.dll
+C:\Users\666\Desktop\Iceberg beta\testWPF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\666\Desktop\Iceberg beta\testWPF\bin\Debug\taglib-sharp.dll
+C:\Users\666\Desktop\Iceberg beta\testWPF\bin\Debug\VkNet.dll
+C:\Users\666\Desktop\Iceberg beta\testWPF\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\666\Desktop\Iceberg beta\testWPF\bin\Debug\HtmlAgilityPack.xml
+C:\Users\666\Desktop\Iceberg beta\testWPF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\666\Desktop\Iceberg beta\testWPF\bin\Debug\VkNet.pdb
+C:\Users\666\Desktop\Iceberg beta\testWPF\bin\Debug\VkNet.xml
+C:\Users\666\Desktop\Iceberg beta\testWPF\obj\Debug\iceberg.csprojResolveAssemblyReference.cache
+C:\Users\666\Desktop\Iceberg beta\testWPF\obj\Debug\Login.baml
+C:\Users\666\Desktop\Iceberg beta\testWPF\obj\Debug\MainWindow.baml
+C:\Users\666\Desktop\Iceberg beta\testWPF\obj\Debug\App.baml
+C:\Users\666\Desktop\Iceberg beta\testWPF\obj\Debug\Login.g.cs
+C:\Users\666\Desktop\Iceberg beta\testWPF\obj\Debug\MainWindow.g.cs
+C:\Users\666\Desktop\Iceberg beta\testWPF\obj\Debug\App.g.cs
+C:\Users\666\Desktop\Iceberg beta\testWPF\obj\Debug\testWPF_MarkupCompile.cache
+C:\Users\666\Desktop\Iceberg beta\testWPF\obj\Debug\testWPF.g.resources
+C:\Users\666\Desktop\Iceberg beta\testWPF\obj\Debug\testWPF.Properties.Resources.resources
+C:\Users\666\Desktop\Iceberg beta\testWPF\obj\Debug\iceberg.csproj.GenerateResource.Cache
+C:\Users\666\Desktop\Iceberg beta\testWPF\bin\Debug\EntityFramework.dll
+C:\Users\666\Desktop\Iceberg beta\testWPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\666\Desktop\Iceberg beta\testWPF\bin\Debug\System.Data.SQLite.dll
+C:\Users\666\Desktop\Iceberg beta\testWPF\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\666\Desktop\Iceberg beta\testWPF\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\666\Desktop\Iceberg beta\testWPF\bin\Debug\EntityFramework.xml
+C:\Users\666\Desktop\Iceberg beta\testWPF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\666\Desktop\Iceberg beta\testWPF\bin\Debug\System.Data.SQLite.xml
+C:\Users\666\Desktop\C#\Iceberg beta\testWPF\obj\Debug\iceberg.csproj.ResolveComReference.cache
+C:\Users\666\Desktop\C#\Iceberg beta\testWPF\bin\Debug\EntityFramework.dll
+C:\Users\666\Desktop\C#\Iceberg beta\testWPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\666\Desktop\C#\Iceberg beta\testWPF\bin\Debug\HtmlAgilityPack.dll
+C:\Users\666\Desktop\C#\Iceberg beta\testWPF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\666\Desktop\C#\Iceberg beta\testWPF\bin\Debug\System.Data.SQLite.dll
+C:\Users\666\Desktop\C#\Iceberg beta\testWPF\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\666\Desktop\C#\Iceberg beta\testWPF\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\666\Desktop\C#\Iceberg beta\testWPF\bin\Debug\taglib-sharp.dll
+C:\Users\666\Desktop\C#\Iceberg beta\testWPF\bin\Debug\VkNet.dll
+C:\Users\666\Desktop\C#\Iceberg beta\testWPF\bin\Debug\EntityFramework.xml
+C:\Users\666\Desktop\C#\Iceberg beta\testWPF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\666\Desktop\C#\Iceberg beta\testWPF\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\666\Desktop\C#\Iceberg beta\testWPF\bin\Debug\HtmlAgilityPack.xml
+C:\Users\666\Desktop\C#\Iceberg beta\testWPF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\666\Desktop\C#\Iceberg beta\testWPF\bin\Debug\System.Data.SQLite.xml
+C:\Users\666\Desktop\C#\Iceberg beta\testWPF\bin\Debug\VkNet.pdb
+C:\Users\666\Desktop\C#\Iceberg beta\testWPF\bin\Debug\VkNet.xml
+C:\Users\666\Desktop\C#\Iceberg beta\testWPF\obj\Debug\Login.baml
+C:\Users\666\Desktop\C#\Iceberg beta\testWPF\obj\Debug\MainWindow.baml
+C:\Users\666\Desktop\C#\Iceberg beta\testWPF\obj\Debug\App.baml
+C:\Users\666\Desktop\C#\Iceberg beta\testWPF\obj\Debug\Login.g.cs
+C:\Users\666\Desktop\C#\Iceberg beta\testWPF\obj\Debug\MainWindow.g.cs
+C:\Users\666\Desktop\C#\Iceberg beta\testWPF\obj\Debug\App.g.cs
+C:\Users\666\Desktop\C#\Iceberg beta\testWPF\obj\Debug\iceberg.csproj.GenerateResource.Cache
+C:\Users\666\Desktop\C#\Iceberg beta\testWPF\bin\Debug\Iceberg.exe.config
+C:\Users\666\Desktop\C#\Iceberg beta\testWPF\bin\Debug\Iceberg.exe
+C:\Users\666\Desktop\C#\Iceberg beta\testWPF\bin\Debug\Iceberg.pdb
+C:\Users\666\Desktop\C#\Iceberg beta\testWPF\obj\Debug\Iceberg_MarkupCompile.cache
+C:\Users\666\Desktop\C#\Iceberg beta\testWPF\obj\Debug\Iceberg.g.resources
+C:\Users\666\Desktop\C#\Iceberg beta\testWPF\obj\Debug\Iceberg.Properties.Resources.resources
+C:\Users\666\Desktop\C#\Iceberg beta\testWPF\obj\Debug\Iceberg.exe
+C:\Users\666\Desktop\C#\Iceberg beta\testWPF\obj\Debug\Iceberg.pdb
+C:\Users\666\Desktop\C#\Iceberg beta\testWPF\obj\Debug\iceberg.csprojResolveAssemblyReference.cache
+C:\Users\666\Desktop\C#\Iceberg beta\testWPF\obj\Debug\LogBrowser.g.cs
+C:\Users\666\Desktop\C#\Iceberg beta\testWPF\obj\Debug\Iceberg_MarkupCompile.lref
+C:\Users\666\Desktop\C#\Iceberg beta\testWPF\obj\Debug\LogBrowser.baml
+C:\Users\666\Desktop\C#\iceberg test\Iceberg beta\testWPF\bin\Debug\Iceberg.exe.config
+C:\Users\666\Desktop\C#\iceberg test\Iceberg beta\testWPF\obj\Debug\iceberg.csproj.ResolveComReference.cache
+C:\Users\666\Desktop\C#\iceberg test\Iceberg beta\testWPF\obj\Debug\Iceberg.exe
+C:\Users\666\Desktop\C#\iceberg test\Iceberg beta\testWPF\obj\Debug\Iceberg.pdb
+C:\Users\666\Desktop\C#\iceberg test\Iceberg beta\testWPF\bin\Debug\Iceberg.exe
+C:\Users\666\Desktop\C#\iceberg test\Iceberg beta\testWPF\bin\Debug\Iceberg.pdb
+C:\Users\666\Desktop\C#\iceberg test\Iceberg beta\testWPF\bin\Debug\EntityFramework.dll
+C:\Users\666\Desktop\C#\iceberg test\Iceberg beta\testWPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\666\Desktop\C#\iceberg test\Iceberg beta\testWPF\bin\Debug\HtmlAgilityPack.dll
+C:\Users\666\Desktop\C#\iceberg test\Iceberg beta\testWPF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\666\Desktop\C#\iceberg test\Iceberg beta\testWPF\bin\Debug\System.Data.SQLite.dll
+C:\Users\666\Desktop\C#\iceberg test\Iceberg beta\testWPF\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\666\Desktop\C#\iceberg test\Iceberg beta\testWPF\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\666\Desktop\C#\iceberg test\Iceberg beta\testWPF\bin\Debug\taglib-sharp.dll
+C:\Users\666\Desktop\C#\iceberg test\Iceberg beta\testWPF\bin\Debug\VkNet.dll
+C:\Users\666\Desktop\C#\iceberg test\Iceberg beta\testWPF\bin\Debug\EntityFramework.xml
+C:\Users\666\Desktop\C#\iceberg test\Iceberg beta\testWPF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\666\Desktop\C#\iceberg test\Iceberg beta\testWPF\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\666\Desktop\C#\iceberg test\Iceberg beta\testWPF\bin\Debug\HtmlAgilityPack.xml
+C:\Users\666\Desktop\C#\iceberg test\Iceberg beta\testWPF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\666\Desktop\C#\iceberg test\Iceberg beta\testWPF\bin\Debug\System.Data.SQLite.xml
+C:\Users\666\Desktop\C#\iceberg test\Iceberg beta\testWPF\bin\Debug\VkNet.pdb
+C:\Users\666\Desktop\C#\iceberg test\Iceberg beta\testWPF\bin\Debug\VkNet.xml
+C:\Users\666\Desktop\C#\iceberg test\Iceberg beta\testWPF\obj\Debug\iceberg.csprojResolveAssemblyReference.cache
+C:\Users\666\Desktop\C#\iceberg test\Iceberg beta\testWPF\obj\Debug\Login.baml
+C:\Users\666\Desktop\C#\iceberg test\Iceberg beta\testWPF\obj\Debug\MainWindow.baml
+C:\Users\666\Desktop\C#\iceberg test\Iceberg beta\testWPF\obj\Debug\App.baml
+C:\Users\666\Desktop\C#\iceberg test\Iceberg beta\testWPF\obj\Debug\LogBrowser.g.cs
+C:\Users\666\Desktop\C#\iceberg test\Iceberg beta\testWPF\obj\Debug\Login.g.cs
+C:\Users\666\Desktop\C#\iceberg test\Iceberg beta\testWPF\obj\Debug\MainWindow.g.cs
+C:\Users\666\Desktop\C#\iceberg test\Iceberg beta\testWPF\obj\Debug\App.g.cs
+C:\Users\666\Desktop\C#\iceberg test\Iceberg beta\testWPF\obj\Debug\Iceberg_MarkupCompile.cache
+C:\Users\666\Desktop\C#\iceberg test\Iceberg beta\testWPF\obj\Debug\Iceberg_MarkupCompile.lref
+C:\Users\666\Desktop\C#\iceberg test\Iceberg beta\testWPF\obj\Debug\LogBrowser.baml
+C:\Users\666\Desktop\C#\iceberg test\Iceberg beta\testWPF\obj\Debug\Iceberg.g.resources
+C:\Users\666\Desktop\C#\iceberg test\Iceberg beta\testWPF\obj\Debug\Iceberg.Properties.Resources.resources
+C:\Users\666\Desktop\C#\iceberg test\Iceberg beta\testWPF\obj\Debug\iceberg.csproj.GenerateResource.Cache
+P:\iceberg test\Iceberg beta\testWPF\bin\Debug\Iceberg.exe.config
+P:\iceberg test\Iceberg beta\testWPF\obj\Debug\iceberg.csproj.ResolveComReference.cache
+P:\iceberg test\Iceberg beta\testWPF\obj\Debug\Iceberg.exe
+P:\iceberg test\Iceberg beta\testWPF\obj\Debug\Iceberg.pdb
+P:\iceberg test\Iceberg beta\testWPF\bin\Debug\Iceberg.exe
+P:\iceberg test\Iceberg beta\testWPF\bin\Debug\Iceberg.pdb
+P:\iceberg test\Iceberg beta\testWPF\bin\Debug\EntityFramework.dll
+P:\iceberg test\Iceberg beta\testWPF\bin\Debug\EntityFramework.SqlServer.dll
+P:\iceberg test\Iceberg beta\testWPF\bin\Debug\Newtonsoft.Json.dll
+P:\iceberg test\Iceberg beta\testWPF\bin\Debug\System.Data.SQLite.dll
+P:\iceberg test\Iceberg beta\testWPF\bin\Debug\System.Data.SQLite.EF6.dll
+P:\iceberg test\Iceberg beta\testWPF\bin\Debug\System.Data.SQLite.Linq.dll
+P:\iceberg test\Iceberg beta\testWPF\bin\Debug\taglib-sharp.dll
+P:\iceberg test\Iceberg beta\testWPF\bin\Debug\EntityFramework.xml
+P:\iceberg test\Iceberg beta\testWPF\bin\Debug\EntityFramework.SqlServer.xml
+P:\iceberg test\Iceberg beta\testWPF\bin\Debug\Newtonsoft.Json.xml
+P:\iceberg test\Iceberg beta\testWPF\bin\Debug\System.Data.SQLite.xml
+P:\iceberg test\Iceberg beta\testWPF\obj\Debug\iceberg.csprojResolveAssemblyReference.cache
+P:\iceberg test\Iceberg beta\testWPF\obj\Debug\Login.baml
+P:\iceberg test\Iceberg beta\testWPF\obj\Debug\MainWindow.baml
+P:\iceberg test\Iceberg beta\testWPF\obj\Debug\App.baml
+P:\iceberg test\Iceberg beta\testWPF\obj\Debug\LogBrowser.g.cs
+P:\iceberg test\Iceberg beta\testWPF\obj\Debug\Login.g.cs
+P:\iceberg test\Iceberg beta\testWPF\obj\Debug\MainWindow.g.cs
+P:\iceberg test\Iceberg beta\testWPF\obj\Debug\App.g.cs
+P:\iceberg test\Iceberg beta\testWPF\obj\Debug\Iceberg_MarkupCompile.cache
+P:\iceberg test\Iceberg beta\testWPF\obj\Debug\Iceberg_MarkupCompile.lref
+P:\iceberg test\Iceberg beta\testWPF\obj\Debug\LogBrowser.baml
+P:\iceberg test\Iceberg beta\testWPF\obj\Debug\Iceberg.g.resources
+P:\iceberg test\Iceberg beta\testWPF\obj\Debug\Iceberg.Properties.Resources.resources
+P:\iceberg test\Iceberg beta\testWPF\obj\Debug\iceberg.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\it\My Code\iceberg test\Iceberg beta\testWPF\bin\Debug\Iceberg.exe.config
+C:\Users\user\Desktop\it\My Code\iceberg test\Iceberg beta\testWPF\obj\Debug\iceberg.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\it\My Code\iceberg test\Iceberg beta\testWPF\obj\Debug\Iceberg.exe
+C:\Users\user\Desktop\it\My Code\iceberg test\Iceberg beta\testWPF\obj\Debug\Iceberg.pdb
+C:\Users\user\Desktop\it\My Code\iceberg test\Iceberg beta\testWPF\bin\Debug\Iceberg.exe
+C:\Users\user\Desktop\it\My Code\iceberg test\Iceberg beta\testWPF\bin\Debug\Iceberg.pdb
+C:\Users\user\Desktop\it\My Code\iceberg test\Iceberg beta\testWPF\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\it\My Code\iceberg test\Iceberg beta\testWPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\it\My Code\iceberg test\Iceberg beta\testWPF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\it\My Code\iceberg test\Iceberg beta\testWPF\bin\Debug\System.Data.SQLite.dll
+C:\Users\user\Desktop\it\My Code\iceberg test\Iceberg beta\testWPF\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\user\Desktop\it\My Code\iceberg test\Iceberg beta\testWPF\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\user\Desktop\it\My Code\iceberg test\Iceberg beta\testWPF\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\it\My Code\iceberg test\Iceberg beta\testWPF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\it\My Code\iceberg test\Iceberg beta\testWPF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\it\My Code\iceberg test\Iceberg beta\testWPF\bin\Debug\System.Data.SQLite.xml
+C:\Users\user\Desktop\it\My Code\iceberg test\Iceberg beta\testWPF\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\it\My Code\iceberg test\Iceberg beta\testWPF\obj\Debug\App.baml
+C:\Users\user\Desktop\it\My Code\iceberg test\Iceberg beta\testWPF\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\it\My Code\iceberg test\Iceberg beta\testWPF\obj\Debug\App.g.cs
+C:\Users\user\Desktop\it\My Code\iceberg test\Iceberg beta\testWPF\obj\Debug\Iceberg_MarkupCompile.cache
+C:\Users\user\Desktop\it\My Code\iceberg test\Iceberg beta\testWPF\obj\Debug\Iceberg.g.resources
+C:\Users\user\Desktop\it\My Code\iceberg test\Iceberg beta\testWPF\obj\Debug\Iceberg.Properties.Resources.resources
+C:\Users\user\Desktop\it\My Code\iceberg test\Iceberg beta\testWPF\obj\Debug\iceberg.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\it\My Code\iceberg test\Iceberg beta\testWPF\obj\Debug\Autorize.baml
+C:\Users\user\Desktop\it\My Code\iceberg test\Iceberg beta\testWPF\obj\Debug\Autorize.g.cs
+C:\Users\666\Desktop\Pizza\iceberg test\Iceberg beta\testWPF\bin\Debug\Iceberg.exe.config
+C:\Users\666\Desktop\Pizza\iceberg test\Iceberg beta\testWPF\obj\Debug\iceberg.csproj.ResolveComReference.cache
+C:\Users\666\Desktop\Pizza\iceberg test\Iceberg beta\testWPF\obj\Debug\Iceberg.exe
+C:\Users\666\Desktop\Pizza\iceberg test\Iceberg beta\testWPF\obj\Debug\Iceberg.pdb
+C:\Users\666\Desktop\Pizza\iceberg test\Iceberg beta\testWPF\bin\Debug\Iceberg.exe
+C:\Users\666\Desktop\Pizza\iceberg test\Iceberg beta\testWPF\bin\Debug\Iceberg.pdb
+C:\Users\666\Desktop\Pizza\iceberg test\Iceberg beta\testWPF\bin\Debug\EntityFramework.dll
+C:\Users\666\Desktop\Pizza\iceberg test\Iceberg beta\testWPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\666\Desktop\Pizza\iceberg test\Iceberg beta\testWPF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\666\Desktop\Pizza\iceberg test\Iceberg beta\testWPF\bin\Debug\System.Data.SQLite.dll
+C:\Users\666\Desktop\Pizza\iceberg test\Iceberg beta\testWPF\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\666\Desktop\Pizza\iceberg test\Iceberg beta\testWPF\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\666\Desktop\Pizza\iceberg test\Iceberg beta\testWPF\bin\Debug\EntityFramework.xml
+C:\Users\666\Desktop\Pizza\iceberg test\Iceberg beta\testWPF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\666\Desktop\Pizza\iceberg test\Iceberg beta\testWPF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\666\Desktop\Pizza\iceberg test\Iceberg beta\testWPF\bin\Debug\System.Data.SQLite.xml
+C:\Users\666\Desktop\Pizza\iceberg test\Iceberg beta\testWPF\obj\Debug\iceberg.csprojResolveAssemblyReference.cache
+C:\Users\666\Desktop\Pizza\iceberg test\Iceberg beta\testWPF\obj\Debug\Autorize.baml
+C:\Users\666\Desktop\Pizza\iceberg test\Iceberg beta\testWPF\obj\Debug\MainWindow.baml
+C:\Users\666\Desktop\Pizza\iceberg test\Iceberg beta\testWPF\obj\Debug\App.baml
+C:\Users\666\Desktop\Pizza\iceberg test\Iceberg beta\testWPF\obj\Debug\Autorize.g.cs
+C:\Users\666\Desktop\Pizza\iceberg test\Iceberg beta\testWPF\obj\Debug\MainWindow.g.cs
+C:\Users\666\Desktop\Pizza\iceberg test\Iceberg beta\testWPF\obj\Debug\App.g.cs
+C:\Users\666\Desktop\Pizza\iceberg test\Iceberg beta\testWPF\obj\Debug\Iceberg_MarkupCompile.cache
+C:\Users\666\Desktop\Pizza\iceberg test\Iceberg beta\testWPF\obj\Debug\Iceberg.g.resources
+C:\Users\666\Desktop\Pizza\iceberg test\Iceberg beta\testWPF\obj\Debug\Iceberg.Properties.Resources.resources
+C:\Users\666\Desktop\Pizza\iceberg test\Iceberg beta\testWPF\obj\Debug\iceberg.csproj.GenerateResource.Cache
+P:\Pizza\iceberg test\Iceberg beta\testWPF\bin\Debug\Iceberg.exe.config
+P:\Pizza\iceberg test\Iceberg beta\testWPF\obj\Debug\iceberg.csproj.ResolveComReference.cache
+P:\Pizza\iceberg test\Iceberg beta\testWPF\obj\Debug\Iceberg.exe
+P:\Pizza\iceberg test\Iceberg beta\testWPF\obj\Debug\Iceberg.pdb
+P:\Pizza\iceberg test\Iceberg beta\testWPF\bin\Debug\Iceberg.exe
+P:\Pizza\iceberg test\Iceberg beta\testWPF\bin\Debug\Iceberg.pdb
+P:\Pizza\iceberg test\Iceberg beta\testWPF\bin\Debug\EntityFramework.dll
+P:\Pizza\iceberg test\Iceberg beta\testWPF\bin\Debug\EntityFramework.SqlServer.dll
+P:\Pizza\iceberg test\Iceberg beta\testWPF\bin\Debug\Newtonsoft.Json.dll
+P:\Pizza\iceberg test\Iceberg beta\testWPF\bin\Debug\System.Data.SQLite.dll
+P:\Pizza\iceberg test\Iceberg beta\testWPF\bin\Debug\System.Data.SQLite.EF6.dll
+P:\Pizza\iceberg test\Iceberg beta\testWPF\bin\Debug\System.Data.SQLite.Linq.dll
+P:\Pizza\iceberg test\Iceberg beta\testWPF\bin\Debug\EntityFramework.xml
+P:\Pizza\iceberg test\Iceberg beta\testWPF\bin\Debug\EntityFramework.SqlServer.xml
+P:\Pizza\iceberg test\Iceberg beta\testWPF\bin\Debug\Newtonsoft.Json.xml
+P:\Pizza\iceberg test\Iceberg beta\testWPF\bin\Debug\System.Data.SQLite.xml
+P:\Pizza\iceberg test\Iceberg beta\testWPF\obj\Debug\iceberg.csprojResolveAssemblyReference.cache
+P:\Pizza\iceberg test\Iceberg beta\testWPF\obj\Debug\Autorize.baml
+P:\Pizza\iceberg test\Iceberg beta\testWPF\obj\Debug\MainWindow.baml
+P:\Pizza\iceberg test\Iceberg beta\testWPF\obj\Debug\App.baml
+P:\Pizza\iceberg test\Iceberg beta\testWPF\obj\Debug\Autorize.g.cs
+P:\Pizza\iceberg test\Iceberg beta\testWPF\obj\Debug\MainWindow.g.cs
+P:\Pizza\iceberg test\Iceberg beta\testWPF\obj\Debug\App.g.cs
+P:\Pizza\iceberg test\Iceberg beta\testWPF\obj\Debug\Iceberg_MarkupCompile.cache
+P:\Pizza\iceberg test\Iceberg beta\testWPF\obj\Debug\Iceberg.g.resources
+P:\Pizza\iceberg test\Iceberg beta\testWPF\obj\Debug\Iceberg.Properties.Resources.resources
+P:\Pizza\iceberg test\Iceberg beta\testWPF\obj\Debug\iceberg.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Pizza\iceberg test\Iceberg beta\testWPF\bin\Debug\Iceberg.exe.config
+C:\Users\user\Desktop\Pizza\iceberg test\Iceberg beta\testWPF\obj\Debug\iceberg.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\Pizza\iceberg test\Iceberg beta\testWPF\obj\Debug\Iceberg.exe
+C:\Users\user\Desktop\Pizza\iceberg test\Iceberg beta\testWPF\obj\Debug\Iceberg.pdb
+C:\Users\user\Desktop\Pizza\iceberg test\Iceberg beta\testWPF\bin\Debug\Iceberg.exe
+C:\Users\user\Desktop\Pizza\iceberg test\Iceberg beta\testWPF\bin\Debug\Iceberg.pdb
+C:\Users\user\Desktop\Pizza\iceberg test\Iceberg beta\testWPF\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\Pizza\iceberg test\Iceberg beta\testWPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\Pizza\iceberg test\Iceberg beta\testWPF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Pizza\iceberg test\Iceberg beta\testWPF\bin\Debug\System.Data.SQLite.dll
+C:\Users\user\Desktop\Pizza\iceberg test\Iceberg beta\testWPF\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\user\Desktop\Pizza\iceberg test\Iceberg beta\testWPF\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\user\Desktop\Pizza\iceberg test\Iceberg beta\testWPF\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\Pizza\iceberg test\Iceberg beta\testWPF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\Pizza\iceberg test\Iceberg beta\testWPF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\Pizza\iceberg test\Iceberg beta\testWPF\bin\Debug\System.Data.SQLite.xml
+C:\Users\user\Desktop\Pizza\iceberg test\Iceberg beta\testWPF\obj\Debug\iceberg.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Pizza\iceberg test\Iceberg beta\testWPF\obj\Debug\Autorize.baml
+C:\Users\user\Desktop\Pizza\iceberg test\Iceberg beta\testWPF\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\Pizza\iceberg test\Iceberg beta\testWPF\obj\Debug\App.baml
+C:\Users\user\Desktop\Pizza\iceberg test\Iceberg beta\testWPF\obj\Debug\Autorize.g.cs
+C:\Users\user\Desktop\Pizza\iceberg test\Iceberg beta\testWPF\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\Pizza\iceberg test\Iceberg beta\testWPF\obj\Debug\App.g.cs
+C:\Users\user\Desktop\Pizza\iceberg test\Iceberg beta\testWPF\obj\Debug\Iceberg_MarkupCompile.cache
+C:\Users\user\Desktop\Pizza\iceberg test\Iceberg beta\testWPF\obj\Debug\Iceberg.g.resources
+C:\Users\user\Desktop\Pizza\iceberg test\Iceberg beta\testWPF\obj\Debug\Iceberg.Properties.Resources.resources
+C:\Users\user\Desktop\Pizza\iceberg test\Iceberg beta\testWPF\obj\Debug\iceberg.csproj.GenerateResource.Cache
+G:\new new Pizza\Pizza\iceberg test\Iceberg beta\testWPF\bin\Debug\Iceberg.exe.config
+G:\new new Pizza\Pizza\iceberg test\Iceberg beta\testWPF\obj\Debug\iceberg.csproj.ResolveComReference.cache
+G:\new new Pizza\Pizza\iceberg test\Iceberg beta\testWPF\obj\Debug\Iceberg.exe
+G:\new new Pizza\Pizza\iceberg test\Iceberg beta\testWPF\obj\Debug\Iceberg.pdb
+G:\new new Pizza\Pizza\iceberg test\Iceberg beta\testWPF\bin\Debug\Iceberg.exe
+G:\new new Pizza\Pizza\iceberg test\Iceberg beta\testWPF\bin\Debug\Iceberg.pdb
+G:\new new Pizza\Pizza\iceberg test\Iceberg beta\testWPF\bin\Debug\EntityFramework.dll
+G:\new new Pizza\Pizza\iceberg test\Iceberg beta\testWPF\bin\Debug\EntityFramework.SqlServer.dll
+G:\new new Pizza\Pizza\iceberg test\Iceberg beta\testWPF\bin\Debug\Newtonsoft.Json.dll
+G:\new new Pizza\Pizza\iceberg test\Iceberg beta\testWPF\bin\Debug\System.Data.SQLite.dll
+G:\new new Pizza\Pizza\iceberg test\Iceberg beta\testWPF\bin\Debug\System.Data.SQLite.EF6.dll
+G:\new new Pizza\Pizza\iceberg test\Iceberg beta\testWPF\bin\Debug\System.Data.SQLite.Linq.dll
+G:\new new Pizza\Pizza\iceberg test\Iceberg beta\testWPF\bin\Debug\EntityFramework.xml
+G:\new new Pizza\Pizza\iceberg test\Iceberg beta\testWPF\bin\Debug\EntityFramework.SqlServer.xml
+G:\new new Pizza\Pizza\iceberg test\Iceberg beta\testWPF\bin\Debug\Newtonsoft.Json.xml
+G:\new new Pizza\Pizza\iceberg test\Iceberg beta\testWPF\bin\Debug\System.Data.SQLite.xml
+G:\new new Pizza\Pizza\iceberg test\Iceberg beta\testWPF\obj\Debug\iceberg.csprojResolveAssemblyReference.cache
+G:\new new Pizza\Pizza\iceberg test\Iceberg beta\testWPF\obj\Debug\Autorize.baml
+G:\new new Pizza\Pizza\iceberg test\Iceberg beta\testWPF\obj\Debug\MainWindow.baml
+G:\new new Pizza\Pizza\iceberg test\Iceberg beta\testWPF\obj\Debug\App.baml
+G:\new new Pizza\Pizza\iceberg test\Iceberg beta\testWPF\obj\Debug\Autorize.g.cs
+G:\new new Pizza\Pizza\iceberg test\Iceberg beta\testWPF\obj\Debug\MainWindow.g.cs
+G:\new new Pizza\Pizza\iceberg test\Iceberg beta\testWPF\obj\Debug\App.g.cs
+G:\new new Pizza\Pizza\iceberg test\Iceberg beta\testWPF\obj\Debug\Iceberg_MarkupCompile.cache
+G:\new new Pizza\Pizza\iceberg test\Iceberg beta\testWPF\obj\Debug\Iceberg.g.resources
+G:\new new Pizza\Pizza\iceberg test\Iceberg beta\testWPF\obj\Debug\Iceberg.Properties.Resources.resources
+G:\new new Pizza\Pizza\iceberg test\Iceberg beta\testWPF\obj\Debug\iceberg.csproj.GenerateResource.Cache
+C:\Users\666\Desktop\last Pizza\iceberg test\Iceberg beta\testWPF\bin\Debug\Iceberg.exe.config
+C:\Users\666\Desktop\last Pizza\iceberg test\Iceberg beta\testWPF\obj\Debug\iceberg.csproj.ResolveComReference.cache
+C:\Users\666\Desktop\last Pizza\iceberg test\Iceberg beta\testWPF\obj\Debug\Iceberg.exe
+C:\Users\666\Desktop\last Pizza\iceberg test\Iceberg beta\testWPF\obj\Debug\Iceberg.pdb
+C:\Users\666\Desktop\last Pizza\iceberg test\Iceberg beta\testWPF\bin\Debug\Iceberg.exe
+C:\Users\666\Desktop\last Pizza\iceberg test\Iceberg beta\testWPF\bin\Debug\Iceberg.pdb
+C:\Users\666\Desktop\last Pizza\iceberg test\Iceberg beta\testWPF\bin\Debug\EntityFramework.dll
+C:\Users\666\Desktop\last Pizza\iceberg test\Iceberg beta\testWPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\666\Desktop\last Pizza\iceberg test\Iceberg beta\testWPF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\666\Desktop\last Pizza\iceberg test\Iceberg beta\testWPF\bin\Debug\System.Data.SQLite.dll
+C:\Users\666\Desktop\last Pizza\iceberg test\Iceberg beta\testWPF\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\666\Desktop\last Pizza\iceberg test\Iceberg beta\testWPF\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\666\Desktop\last Pizza\iceberg test\Iceberg beta\testWPF\bin\Debug\EntityFramework.xml
+C:\Users\666\Desktop\last Pizza\iceberg test\Iceberg beta\testWPF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\666\Desktop\last Pizza\iceberg test\Iceberg beta\testWPF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\666\Desktop\last Pizza\iceberg test\Iceberg beta\testWPF\bin\Debug\System.Data.SQLite.xml
+C:\Users\666\Desktop\last Pizza\iceberg test\Iceberg beta\testWPF\obj\Debug\iceberg.csprojResolveAssemblyReference.cache
+C:\Users\666\Desktop\last Pizza\iceberg test\Iceberg beta\testWPF\obj\Debug\Autorize.baml
+C:\Users\666\Desktop\last Pizza\iceberg test\Iceberg beta\testWPF\obj\Debug\MainWindow.baml
+C:\Users\666\Desktop\last Pizza\iceberg test\Iceberg beta\testWPF\obj\Debug\App.baml
+C:\Users\666\Desktop\last Pizza\iceberg test\Iceberg beta\testWPF\obj\Debug\Autorize.g.cs
+C:\Users\666\Desktop\last Pizza\iceberg test\Iceberg beta\testWPF\obj\Debug\MainWindow.g.cs
+C:\Users\666\Desktop\last Pizza\iceberg test\Iceberg beta\testWPF\obj\Debug\App.g.cs
+C:\Users\666\Desktop\last Pizza\iceberg test\Iceberg beta\testWPF\obj\Debug\Iceberg_MarkupCompile.cache
+C:\Users\666\Desktop\last Pizza\iceberg test\Iceberg beta\testWPF\obj\Debug\Iceberg.g.resources
+C:\Users\666\Desktop\last Pizza\iceberg test\Iceberg beta\testWPF\obj\Debug\Iceberg.Properties.Resources.resources
+C:\Users\666\Desktop\last Pizza\iceberg test\Iceberg beta\testWPF\obj\Debug\iceberg.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\last Pizza\iceberg test\Iceberg beta\testWPF\bin\Debug\Iceberg.exe.config
+C:\Users\user\Desktop\last Pizza\iceberg test\Iceberg beta\testWPF\obj\Debug\iceberg.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\last Pizza\iceberg test\Iceberg beta\testWPF\obj\Debug\Iceberg.exe
+C:\Users\user\Desktop\last Pizza\iceberg test\Iceberg beta\testWPF\obj\Debug\Iceberg.pdb
+C:\Users\user\Desktop\last Pizza\iceberg test\Iceberg beta\testWPF\bin\Debug\Iceberg.exe
+C:\Users\user\Desktop\last Pizza\iceberg test\Iceberg beta\testWPF\bin\Debug\Iceberg.pdb
+C:\Users\user\Desktop\last Pizza\iceberg test\Iceberg beta\testWPF\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\last Pizza\iceberg test\Iceberg beta\testWPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\last Pizza\iceberg test\Iceberg beta\testWPF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\last Pizza\iceberg test\Iceberg beta\testWPF\bin\Debug\System.Data.SQLite.dll
+C:\Users\user\Desktop\last Pizza\iceberg test\Iceberg beta\testWPF\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\user\Desktop\last Pizza\iceberg test\Iceberg beta\testWPF\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\user\Desktop\last Pizza\iceberg test\Iceberg beta\testWPF\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\last Pizza\iceberg test\Iceberg beta\testWPF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\last Pizza\iceberg test\Iceberg beta\testWPF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\last Pizza\iceberg test\Iceberg beta\testWPF\bin\Debug\System.Data.SQLite.xml
+C:\Users\user\Desktop\last Pizza\iceberg test\Iceberg beta\testWPF\obj\Debug\iceberg.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\last Pizza\iceberg test\Iceberg beta\testWPF\obj\Debug\Autorize.baml
+C:\Users\user\Desktop\last Pizza\iceberg test\Iceberg beta\testWPF\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\last Pizza\iceberg test\Iceberg beta\testWPF\obj\Debug\App.baml
+C:\Users\user\Desktop\last Pizza\iceberg test\Iceberg beta\testWPF\obj\Debug\Autorize.g.cs
+C:\Users\user\Desktop\last Pizza\iceberg test\Iceberg beta\testWPF\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\last Pizza\iceberg test\Iceberg beta\testWPF\obj\Debug\App.g.cs
+C:\Users\user\Desktop\last Pizza\iceberg test\Iceberg beta\testWPF\obj\Debug\Iceberg_MarkupCompile.cache
+C:\Users\user\Desktop\last Pizza\iceberg test\Iceberg beta\testWPF\obj\Debug\Iceberg.g.resources
+C:\Users\user\Desktop\last Pizza\iceberg test\Iceberg beta\testWPF\obj\Debug\Iceberg.Properties.Resources.resources
+C:\Users\user\Desktop\last Pizza\iceberg test\Iceberg beta\testWPF\obj\Debug\iceberg.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\iceberg test\Iceberg beta\testWPF\bin\Debug\Iceberg.exe.config
+C:\Users\user\Desktop\iceberg test\Iceberg beta\testWPF\obj\Debug\iceberg.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\iceberg test\Iceberg beta\testWPF\obj\Debug\Iceberg.exe
+C:\Users\user\Desktop\iceberg test\Iceberg beta\testWPF\obj\Debug\Iceberg.pdb
+C:\Users\user\Desktop\iceberg test\Iceberg beta\testWPF\bin\Debug\Iceberg.exe
+C:\Users\user\Desktop\iceberg test\Iceberg beta\testWPF\bin\Debug\Iceberg.pdb
+C:\Users\user\Desktop\iceberg test\Iceberg beta\testWPF\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\iceberg test\Iceberg beta\testWPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\iceberg test\Iceberg beta\testWPF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\iceberg test\Iceberg beta\testWPF\bin\Debug\System.Data.SQLite.dll
+C:\Users\user\Desktop\iceberg test\Iceberg beta\testWPF\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\user\Desktop\iceberg test\Iceberg beta\testWPF\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\user\Desktop\iceberg test\Iceberg beta\testWPF\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\iceberg test\Iceberg beta\testWPF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\iceberg test\Iceberg beta\testWPF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\iceberg test\Iceberg beta\testWPF\bin\Debug\System.Data.SQLite.xml
+C:\Users\user\Desktop\iceberg test\Iceberg beta\testWPF\obj\Debug\iceberg.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\iceberg test\Iceberg beta\testWPF\obj\Debug\Autorize.baml
+C:\Users\user\Desktop\iceberg test\Iceberg beta\testWPF\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\iceberg test\Iceberg beta\testWPF\obj\Debug\App.baml
+C:\Users\user\Desktop\iceberg test\Iceberg beta\testWPF\obj\Debug\Autorize.g.cs
+C:\Users\user\Desktop\iceberg test\Iceberg beta\testWPF\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\iceberg test\Iceberg beta\testWPF\obj\Debug\App.g.cs
+C:\Users\user\Desktop\iceberg test\Iceberg beta\testWPF\obj\Debug\Iceberg_MarkupCompile.cache
+C:\Users\user\Desktop\iceberg test\Iceberg beta\testWPF\obj\Debug\Iceberg.g.resources
+C:\Users\user\Desktop\iceberg test\Iceberg beta\testWPF\obj\Debug\Iceberg.Properties.Resources.resources
+C:\Users\user\Desktop\iceberg test\Iceberg beta\testWPF\obj\Debug\iceberg.csproj.GenerateResource.Cache
+C:\Users\666\Desktop\iceberg test\Iceberg beta\testWPF\bin\Debug\Iceberg.exe.config
+C:\Users\666\Desktop\iceberg test\Iceberg beta\testWPF\obj\Debug\iceberg.csproj.ResolveComReference.cache
+C:\Users\666\Desktop\iceberg test\Iceberg beta\testWPF\obj\Debug\Iceberg.exe
+C:\Users\666\Desktop\iceberg test\Iceberg beta\testWPF\obj\Debug\Iceberg.pdb
+C:\Users\666\Desktop\iceberg test\Iceberg beta\testWPF\bin\Debug\Iceberg.exe
+C:\Users\666\Desktop\iceberg test\Iceberg beta\testWPF\bin\Debug\Iceberg.pdb
+C:\Users\666\Desktop\iceberg test\Iceberg beta\testWPF\bin\Debug\EntityFramework.dll
+C:\Users\666\Desktop\iceberg test\Iceberg beta\testWPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\666\Desktop\iceberg test\Iceberg beta\testWPF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\666\Desktop\iceberg test\Iceberg beta\testWPF\bin\Debug\System.Data.SQLite.dll
+C:\Users\666\Desktop\iceberg test\Iceberg beta\testWPF\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\666\Desktop\iceberg test\Iceberg beta\testWPF\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\666\Desktop\iceberg test\Iceberg beta\testWPF\bin\Debug\EntityFramework.xml
+C:\Users\666\Desktop\iceberg test\Iceberg beta\testWPF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\666\Desktop\iceberg test\Iceberg beta\testWPF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\666\Desktop\iceberg test\Iceberg beta\testWPF\bin\Debug\System.Data.SQLite.xml
+C:\Users\666\Desktop\iceberg test\Iceberg beta\testWPF\obj\Debug\iceberg.csprojResolveAssemblyReference.cache
+C:\Users\666\Desktop\iceberg test\Iceberg beta\testWPF\obj\Debug\Autorize.baml
+C:\Users\666\Desktop\iceberg test\Iceberg beta\testWPF\obj\Debug\MainWindow.baml
+C:\Users\666\Desktop\iceberg test\Iceberg beta\testWPF\obj\Debug\App.baml
+C:\Users\666\Desktop\iceberg test\Iceberg beta\testWPF\obj\Debug\Autorize.g.cs
+C:\Users\666\Desktop\iceberg test\Iceberg beta\testWPF\obj\Debug\MainWindow.g.cs
+C:\Users\666\Desktop\iceberg test\Iceberg beta\testWPF\obj\Debug\App.g.cs
+C:\Users\666\Desktop\iceberg test\Iceberg beta\testWPF\obj\Debug\Iceberg_MarkupCompile.cache
+C:\Users\666\Desktop\iceberg test\Iceberg beta\testWPF\obj\Debug\Iceberg.g.resources
+C:\Users\666\Desktop\iceberg test\Iceberg beta\testWPF\obj\Debug\Iceberg.Properties.Resources.resources
+C:\Users\666\Desktop\iceberg test\Iceberg beta\testWPF\obj\Debug\iceberg.csproj.GenerateResource.Cache
+C:\Users\666\Desktop\iceberg test\Iceberg beta\testWPF\bin\Debug\Awesomium.Core.dll
+C:\Users\666\Desktop\iceberg test\Iceberg beta\testWPF\bin\Debug\Awesomium.Windows.Controls.dll
+C:\Users\666\Desktop\iceberg test\Iceberg beta\testWPF\bin\Debug\Awesomium.Core.xml
+C:\Users\666\Desktop\iceberg test\Iceberg beta\testWPF\bin\Debug\Awesomium.Windows.Controls.xml
+C:\Users\666\Desktop\iceberg test\Iceberg beta\testWPF\bin\Debug\awesomium.dll
+C:\Users\666\Desktop\iceberg test\Iceberg beta\testWPF\bin\Debug\icudt.dll
+C:\Users\666\Desktop\iceberg test\Iceberg beta\testWPF\bin\Debug\avcodec-53.dll
+C:\Users\666\Desktop\iceberg test\Iceberg beta\testWPF\bin\Debug\avformat-53.dll
+C:\Users\666\Desktop\iceberg test\Iceberg beta\testWPF\bin\Debug\avutil-51.dll
+C:\Users\666\Desktop\iceberg test\Iceberg beta\testWPF\bin\Debug\libEGL.dll
+C:\Users\666\Desktop\iceberg test\Iceberg beta\testWPF\bin\Debug\libGLESv2.dll
+C:\Users\666\Desktop\iceberg test\Iceberg beta\testWPF\bin\Debug\awesomium_process
+C:\Users\666\Desktop\iceberg test\Iceberg beta\testWPF\bin\Debug\inspector.pak
+C:\Users\666\Desktop\iceberg test\Iceberg beta\testWPF\bin\Debug\xinput9_1_0.dll
+C:\Users\666\Desktop\iceberg test\Iceberg beta\testWPF\bin\Debug\pdf_js.pak
+C:\Users\666\Desktop\test\iceberg test\Iceberg beta\testWPF\bin\Debug\Iceberg.exe.config
+C:\Users\666\Desktop\test\iceberg test\Iceberg beta\testWPF\obj\Debug\iceberg.csproj.ResolveComReference.cache
+C:\Users\666\Desktop\test\iceberg test\Iceberg beta\testWPF\obj\Debug\Iceberg.exe
+C:\Users\666\Desktop\test\iceberg test\Iceberg beta\testWPF\obj\Debug\Iceberg.pdb
+C:\Users\666\Desktop\test\iceberg test\Iceberg beta\testWPF\obj\Debug\iceberg.csprojResolveAssemblyReference.cache
+C:\Users\666\Desktop\test\iceberg test\Iceberg beta\testWPF\obj\Debug\MainWindow.baml
+C:\Users\666\Desktop\test\iceberg test\Iceberg beta\testWPF\obj\Debug\App.baml
+C:\Users\666\Desktop\test\iceberg test\Iceberg beta\testWPF\obj\Debug\MainWindow.g.cs
+C:\Users\666\Desktop\test\iceberg test\Iceberg beta\testWPF\obj\Debug\App.g.cs
+C:\Users\666\Desktop\test\iceberg test\Iceberg beta\testWPF\obj\Debug\Iceberg_MarkupCompile.cache
+C:\Users\666\Desktop\test\iceberg test\Iceberg beta\testWPF\obj\Debug\Iceberg.g.resources
+C:\Users\666\Desktop\test\iceberg test\Iceberg beta\testWPF\obj\Debug\Iceberg.Properties.Resources.resources
+C:\Users\666\Desktop\test\iceberg test\Iceberg beta\testWPF\obj\Debug\iceberg.csproj.GenerateResource.Cache
+C:\Users\666\Desktop\test\iceberg test\Iceberg beta\testWPF\bin\Debug\Iceberg.exe
+C:\Users\666\Desktop\test\iceberg test\Iceberg beta\testWPF\bin\Debug\Iceberg.pdb
+C:\Users\666\Desktop\test\iceberg test\Iceberg beta\testWPF\bin\Debug\Awesomium.Core.dll
+C:\Users\666\Desktop\test\iceberg test\Iceberg beta\testWPF\bin\Debug\Awesomium.Windows.Controls.dll
+C:\Users\666\Desktop\test\iceberg test\Iceberg beta\testWPF\bin\Debug\EntityFramework.dll
+C:\Users\666\Desktop\test\iceberg test\Iceberg beta\testWPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\666\Desktop\test\iceberg test\Iceberg beta\testWPF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\666\Desktop\test\iceberg test\Iceberg beta\testWPF\bin\Debug\System.Data.SQLite.dll
+C:\Users\666\Desktop\test\iceberg test\Iceberg beta\testWPF\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\666\Desktop\test\iceberg test\Iceberg beta\testWPF\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\666\Desktop\test\iceberg test\Iceberg beta\testWPF\bin\Debug\Awesomium.Core.xml
+C:\Users\666\Desktop\test\iceberg test\Iceberg beta\testWPF\bin\Debug\Awesomium.Windows.Controls.xml
+C:\Users\666\Desktop\test\iceberg test\Iceberg beta\testWPF\bin\Debug\EntityFramework.xml
+C:\Users\666\Desktop\test\iceberg test\Iceberg beta\testWPF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\666\Desktop\test\iceberg test\Iceberg beta\testWPF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\666\Desktop\test\iceberg test\Iceberg beta\testWPF\bin\Debug\System.Data.SQLite.xml
+C:\Users\666\Desktop\test\iceberg test\Iceberg beta\testWPF\bin\Debug\awesomium.dll
+C:\Users\666\Desktop\test\iceberg test\Iceberg beta\testWPF\bin\Debug\icudt.dll
+C:\Users\666\Desktop\test\iceberg test\Iceberg beta\testWPF\bin\Debug\avcodec-53.dll
+C:\Users\666\Desktop\test\iceberg test\Iceberg beta\testWPF\bin\Debug\avformat-53.dll
+C:\Users\666\Desktop\test\iceberg test\Iceberg beta\testWPF\bin\Debug\avutil-51.dll
+C:\Users\666\Desktop\test\iceberg test\Iceberg beta\testWPF\bin\Debug\libEGL.dll
+C:\Users\666\Desktop\test\iceberg test\Iceberg beta\testWPF\bin\Debug\libGLESv2.dll
+C:\Users\666\Desktop\test\iceberg test\Iceberg beta\testWPF\bin\Debug\awesomium_process
+C:\Users\666\Desktop\test\iceberg test\Iceberg beta\testWPF\bin\Debug\inspector.pak
+C:\Users\666\Desktop\test\iceberg test\Iceberg beta\testWPF\bin\Debug\xinput9_1_0.dll
+C:\Users\666\Desktop\test\iceberg test\Iceberg beta\testWPF\bin\Debug\pdf_js.pak
+C:\Users\666\Desktop\test\iceberg test\Iceberg beta\testWPF\obj\Debug\AutWindow.baml
+C:\Users\666\Desktop\test\iceberg test\Iceberg beta\testWPF\obj\Debug\AutWindow.g.cs
+D:\Pizza\testWPF\bin\Debug\Iceberg.exe.config
+D:\Pizza\testWPF\obj\Debug\iceberg.csproj.ResolveComReference.cache
+D:\Pizza\testWPF\obj\Debug\Iceberg.exe
+D:\Pizza\testWPF\obj\Debug\Iceberg.pdb
+D:\Pizza\testWPF\bin\Debug\Pizza.exe.config

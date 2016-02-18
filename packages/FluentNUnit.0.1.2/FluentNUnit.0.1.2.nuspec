@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>FluentNUnit</id>
+    <version>0.1.2</version>
+    <title />
+    <authors>azhidkov</authors>
+    <owners>azhidkov</owners>
+    <licenseUrl>https://github.com/azhidkov/fluent-nunit/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/azhidkov/fluent-nunit</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Fluent, concise helpers for NUnit</description>
+    <summary>Fluent, concise helpers for NUnit</summary>
+    <releaseNotes />
+    <copyright>@ Anton Zhidkov</copyright>
+    <language />
+    <tags>nunit fluent nunit</tags>
+    <dependencies>
+      <group targetFramework=".NETFramework3.5">
+        <dependency id="NUnit" version="2.6.3" />
+      </group>
+    </dependencies>
+  </metadata>
+</package>

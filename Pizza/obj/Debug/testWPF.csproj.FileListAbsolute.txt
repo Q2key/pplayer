@@ -1,0 +1,117 @@
+C:\Users\Dmitry\Google Диск\testWPF\testWPF\bin\Debug\testWPF.exe.config
+C:\Users\Dmitry\Google Диск\testWPF\testWPF\bin\Debug\testWPF.exe
+C:\Users\Dmitry\Google Диск\testWPF\testWPF\bin\Debug\testWPF.pdb
+C:\Users\Dmitry\Google Диск\testWPF\testWPF\obj\Debug\testWPF.csprojResolveAssemblyReference.cache
+C:\Users\Dmitry\Google Диск\testWPF\testWPF\obj\Debug\MainWindow.baml
+C:\Users\Dmitry\Google Диск\testWPF\testWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Dmitry\Google Диск\testWPF\testWPF\obj\Debug\App.g.cs
+C:\Users\Dmitry\Google Диск\testWPF\testWPF\obj\Debug\testWPF_MarkupCompile.cache
+C:\Users\Dmitry\Google Диск\testWPF\testWPF\obj\Debug\testWPF.g.resources
+C:\Users\Dmitry\Google Диск\testWPF\testWPF\obj\Debug\testWPF.Properties.Resources.resources
+C:\Users\Dmitry\Google Диск\testWPF\testWPF\obj\Debug\testWPF.csproj.GenerateResource.Cache
+C:\Users\Dmitry\Google Диск\testWPF\testWPF\obj\Debug\testWPF.exe
+C:\Users\Dmitry\Google Диск\testWPF\testWPF\obj\Debug\testWPF.pdb
+C:\Users\user\Google Диск\testWPF\testWPF\bin\Debug\testWPF.exe.config
+C:\Users\user\Google Диск\testWPF\testWPF\obj\Debug\testWPF.exe
+C:\Users\user\Google Диск\testWPF\testWPF\obj\Debug\testWPF.pdb
+C:\Users\user\Google Диск\testWPF\testWPF\bin\Debug\testWPF.exe
+C:\Users\user\Google Диск\testWPF\testWPF\bin\Debug\testWPF.pdb
+C:\Users\user\Google Диск\testWPF\testWPF\obj\Debug\testWPF.csprojResolveAssemblyReference.cache
+C:\Users\user\Google Диск\testWPF\testWPF\obj\Debug\MainWindow.baml
+C:\Users\user\Google Диск\testWPF\testWPF\obj\Debug\MainWindow.g.cs
+C:\Users\user\Google Диск\testWPF\testWPF\obj\Debug\App.g.cs
+C:\Users\user\Google Диск\testWPF\testWPF\obj\Debug\testWPF_MarkupCompile.cache
+C:\Users\user\Google Диск\testWPF\testWPF\obj\Debug\testWPF.g.resources
+C:\Users\user\Google Диск\testWPF\testWPF\obj\Debug\testWPF.Properties.Resources.resources
+C:\Users\user\Google Диск\testWPF\testWPF\obj\Debug\testWPF.csproj.GenerateResource.Cache
+C:\Users\Dmitry\Desktop\testWPF\testWPF\bin\Debug\testWPF.exe.config
+C:\Users\Dmitry\Desktop\testWPF\testWPF\obj\Debug\testWPF.exe
+C:\Users\Dmitry\Desktop\testWPF\testWPF\obj\Debug\testWPF.pdb
+C:\Users\Dmitry\Desktop\testWPF\testWPF\bin\Debug\testWPF.exe
+C:\Users\Dmitry\Desktop\testWPF\testWPF\bin\Debug\testWPF.pdb
+C:\Users\Dmitry\Desktop\testWPF\testWPF\obj\Debug\testWPF.csprojResolveAssemblyReference.cache
+C:\Users\Dmitry\Desktop\testWPF\testWPF\obj\Debug\MainWindow.baml
+C:\Users\Dmitry\Desktop\testWPF\testWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Dmitry\Desktop\testWPF\testWPF\obj\Debug\App.g.cs
+C:\Users\Dmitry\Desktop\testWPF\testWPF\obj\Debug\testWPF_MarkupCompile.cache
+C:\Users\Dmitry\Desktop\testWPF\testWPF\obj\Debug\testWPF.g.resources
+C:\Users\Dmitry\Desktop\testWPF\testWPF\obj\Debug\testWPF.Properties.Resources.resources
+C:\Users\Dmitry\Desktop\testWPF\testWPF\obj\Debug\testWPF.csproj.GenerateResource.Cache
+C:\Users\Dmitry\Desktop\C#\testWPF\testWPF\bin\Debug\testWPF.exe.config
+C:\Users\Dmitry\Desktop\C#\testWPF\testWPF\bin\Debug\testWPF.exe
+C:\Users\Dmitry\Desktop\C#\testWPF\testWPF\bin\Debug\testWPF.pdb
+C:\Users\Dmitry\Desktop\C#\testWPF\testWPF\obj\Debug\testWPF.csprojResolveAssemblyReference.cache
+C:\Users\Dmitry\Desktop\C#\testWPF\testWPF\obj\Debug\MainWindow.baml
+C:\Users\Dmitry\Desktop\C#\testWPF\testWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Dmitry\Desktop\C#\testWPF\testWPF\obj\Debug\App.g.cs
+C:\Users\Dmitry\Desktop\C#\testWPF\testWPF\obj\Debug\testWPF_MarkupCompile.cache
+C:\Users\Dmitry\Desktop\C#\testWPF\testWPF\obj\Debug\testWPF.g.resources
+C:\Users\Dmitry\Desktop\C#\testWPF\testWPF\obj\Debug\testWPF.Properties.Resources.resources
+C:\Users\Dmitry\Desktop\C#\testWPF\testWPF\obj\Debug\testWPF.csproj.GenerateResource.Cache
+C:\Users\Dmitry\Desktop\C#\testWPF\testWPF\obj\Debug\testWPF.exe
+C:\Users\Dmitry\Desktop\C#\testWPF\testWPF\obj\Debug\testWPF.pdb
+L:\testWPF\testWPF\bin\Debug\testWPF.exe.config
+L:\testWPF\testWPF\obj\Debug\testWPF.exe
+L:\testWPF\testWPF\obj\Debug\testWPF.pdb
+L:\testWPF\testWPF\bin\Debug\testWPF.exe
+L:\testWPF\testWPF\bin\Debug\testWPF.pdb
+L:\testWPF\testWPF\obj\Debug\MainWindow.baml
+L:\testWPF\testWPF\obj\Debug\MainWindow.g.cs
+L:\testWPF\testWPF\obj\Debug\App.g.cs
+L:\testWPF\testWPF\obj\Debug\testWPF_MarkupCompile.cache
+L:\testWPF\testWPF\obj\Debug\testWPF.g.resources
+L:\testWPF\testWPF\obj\Debug\testWPF.Properties.Resources.resources
+L:\testWPF\testWPF\obj\Debug\testWPF.csproj.GenerateResource.Cache
+L:\testWPF\testWPF\obj\Debug\testWPF.csprojResolveAssemblyReference.cache
+G:\testWPF\testWPF\bin\Debug\testWPF.exe.config
+G:\testWPF\testWPF\obj\Debug\testWPF.exe
+G:\testWPF\testWPF\obj\Debug\testWPF.pdb
+G:\testWPF\testWPF\bin\Debug\testWPF.exe
+G:\testWPF\testWPF\bin\Debug\testWPF.pdb
+G:\testWPF\testWPF\obj\Debug\testWPF.csprojResolveAssemblyReference.cache
+G:\testWPF\testWPF\obj\Debug\MainWindow.baml
+G:\testWPF\testWPF\obj\Debug\MainWindow.g.cs
+G:\testWPF\testWPF\obj\Debug\App.g.cs
+G:\testWPF\testWPF\obj\Debug\testWPF_MarkupCompile.cache
+G:\testWPF\testWPF\obj\Debug\testWPF.g.resources
+G:\testWPF\testWPF\obj\Debug\testWPF.Properties.Resources.resources
+G:\testWPF\testWPF\obj\Debug\testWPF.csproj.GenerateResource.Cache
+C:\Users\user\Documents\testWPF\testWPF\bin\Debug\testWPF.exe.config
+C:\Users\user\Documents\testWPF\testWPF\obj\Debug\testWPF.exe
+C:\Users\user\Documents\testWPF\testWPF\obj\Debug\testWPF.pdb
+C:\Users\user\Documents\testWPF\testWPF\bin\Debug\testWPF.exe
+C:\Users\user\Documents\testWPF\testWPF\bin\Debug\testWPF.pdb
+C:\Users\user\Documents\testWPF\testWPF\obj\Debug\testWPF.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\testWPF\testWPF\obj\Debug\MainWindow.baml
+C:\Users\user\Documents\testWPF\testWPF\obj\Debug\MainWindow.g.cs
+C:\Users\user\Documents\testWPF\testWPF\obj\Debug\App.g.cs
+C:\Users\user\Documents\testWPF\testWPF\obj\Debug\testWPF_MarkupCompile.cache
+C:\Users\user\Documents\testWPF\testWPF\obj\Debug\testWPF.g.resources
+C:\Users\user\Documents\testWPF\testWPF\obj\Debug\testWPF.Properties.Resources.resources
+C:\Users\user\Documents\testWPF\testWPF\obj\Debug\testWPF.csproj.GenerateResource.Cache
+C:\Users\user\Documents\testWPF\testWPF\obj\Debug\Interop.WMPDXMLib.dll
+C:\Users\user\Documents\testWPF\testWPF\obj\Debug\Interop.WMPLauncher.dll
+C:\Users\user\Documents\testWPF\testWPF\obj\Debug\Interop.WMPLib.dll
+C:\Users\user\Documents\testWPF\testWPF\obj\Debug\testWPF.csproj.ResolveComReference.cache
+C:\Users\user\Documents\testWPF\testWPF\obj\Debug\MyGridView.baml
+C:\Users\user\Documents\testWPF\testWPF\obj\Debug\MyGridView.g.cs
+L:\Iceberg beta\testWPF\bin\Debug\testWPF.exe.config
+L:\Iceberg beta\testWPF\obj\Debug\Interop.WMPDXMLib.dll
+L:\Iceberg beta\testWPF\obj\Debug\Interop.WMPLauncher.dll
+L:\Iceberg beta\testWPF\obj\Debug\Interop.WMPLib.dll
+L:\Iceberg beta\testWPF\obj\Debug\testWPF.csproj.ResolveComReference.cache
+L:\Iceberg beta\testWPF\obj\Debug\testWPF.exe
+L:\Iceberg beta\testWPF\obj\Debug\testWPF.pdb
+L:\Iceberg beta\testWPF\bin\Debug\testWPF.exe
+L:\Iceberg beta\testWPF\bin\Debug\testWPF.pdb
+L:\Iceberg beta\testWPF\obj\Debug\testWPF.csprojResolveAssemblyReference.cache
+L:\Iceberg beta\testWPF\obj\Debug\MainWindow.baml
+L:\Iceberg beta\testWPF\obj\Debug\MyGridView.baml
+L:\Iceberg beta\testWPF\obj\Debug\MainWindow.g.cs
+L:\Iceberg beta\testWPF\obj\Debug\MyGridView.g.cs
+L:\Iceberg beta\testWPF\obj\Debug\App.g.cs
+L:\Iceberg beta\testWPF\obj\Debug\testWPF_MarkupCompile.cache
+L:\Iceberg beta\testWPF\obj\Debug\testWPF.g.resources
+L:\Iceberg beta\testWPF\obj\Debug\testWPF.Properties.Resources.resources
+L:\Iceberg beta\testWPF\obj\Debug\testWPF.csproj.GenerateResource.Cache
+L:\Iceberg beta\testWPF\bin\Debug\taglib-sharp.dll
