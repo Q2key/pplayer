@@ -6,8 +6,8 @@
         <SolidColorBrush x:Key="{x:Static SystemColors.HighlightBrushKey}" Color="Orange"/>
         <Style x:Key="MyGridViewCustomHeaderStyle" TargetType="{x:Type GridViewColumnHeader}">
             <Style.Triggers>
-                <Trigger Property="ItemsControl.AlternationIndex" Value="1">
-                    <Setter Property="Background" Value="#FF282C30"></Setter>
+                <Trigger Property="ItemsControl.AlternationIndex" Value="0">
+                    <Setter Property="Background" Value="#FF3A3A3C"></Setter>
                     <Setter Property="Opacity" Value="100"></Setter>
                     <Setter Property="Foreground" Value="AliceBlue"></Setter>
                     <Setter Property="BorderThickness" Value="0"></Setter>
@@ -20,7 +20,7 @@
             <Setter Property="HorizontalContentAlignment" Value="Left" />
             <Style.Triggers>
                 <Trigger Property="ItemsControl.AlternationIndex" Value="0">
-                    <Setter Property="Background" Value="White"/>
+                    <Setter Property="Background" Value="#FF3A3A3C"/>
                 </Trigger>
                 <MultiTrigger>
                     <MultiTrigger.Conditions>
@@ -44,7 +44,7 @@
             <Setter Property="Template">
                 <Setter.Value>
                     <ControlTemplate TargetType="RepeatButton">
-                        <Border BorderThickness="1" BorderBrush="White" Background="#FF4CC2C4" Height="2" />
+                        <Border BorderThickness="1" BorderBrush="White" Background="White" Height="2" />
                     </ControlTemplate>
                 </Setter.Value>
             </Setter>
@@ -56,8 +56,8 @@
             <Setter Property="Template">
                 <Setter.Value>
                     <ControlTemplate TargetType="RepeatButton">
-                        <Border SnapsToDevicePixels="True" Background="#FF4CC2C4" BorderThickness="1"
-                                BorderBrush="#FF4CC2C4" Height="2" />
+                        <Border SnapsToDevicePixels="True" Background="White" BorderThickness="1"
+                                BorderBrush="White" Height="2" />
                     </ControlTemplate>
                 </Setter.Value>
             </Setter>
@@ -68,7 +68,7 @@
             <Setter Property="Template">
                 <Setter.Value>
                     <ControlTemplate TargetType="Thumb">
-                        <Ellipse Height="9" Width="9" Fill="#FF4CC2C4"></Ellipse>
+                        <Ellipse Height="9" Width="9" Fill="White"></Ellipse>
                     </ControlTemplate>
                 </Setter.Value>
             </Setter>
